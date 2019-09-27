@@ -21,7 +21,7 @@ class Zubat {
 	Info info[] = { new Info(val, name) };
 	List<Info> infoList = new ArrayList<Info>();
 	
-	
+
 	
 	public void brainz() {
 		soulz();
@@ -52,6 +52,7 @@ class Zubat {
 		name = j.next();
 		
 	
+
 
 	}
 
